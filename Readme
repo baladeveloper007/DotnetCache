@@ -1,0 +1,11 @@
+Redis Customer Support:
+If Redis is solely being utilized for basic cache handling, you would not likely need to purchase a license for an enterprise version of Redis. 
+
+However, as I cannot provide you with legal advice, I urge you to consult with your own legal representative. Additionally, our licensing site at https://redis.io/legal/licenses/
+
+Redis Licensing Overview - Redis
+Learn about the Redis Source Available License 2.0 (RSALv2), SSPL, and the open source 3-Clause-BSD license.
+redis.io
+ provides a good summary of the updates to our licensing model and the restrictions under our updated licenses. 
+
+Finally, please note that our shift to the dual licensing model only impacts versions of Redis from 7.4 forward - versions released prior to version 7.4 are not impacted and their licensing structure is unchanged.
